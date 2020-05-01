@@ -1,4 +1,4 @@
 <?php
-header("Location: https://start-your-product.site/actmca/");
+header("Location: https://www.flemingtondepartmentstore.com/flooring.inc");
 die();
 ?>
